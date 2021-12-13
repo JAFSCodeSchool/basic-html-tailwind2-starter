@@ -1,4 +1,4 @@
-# basic-html-tailwind-starter
+# basic-html-tailwind2-starter
 This is a basic html template which has tailwind v2.2 setup in it. Also purging and minification of CSS is also incorporated. 
 
 If you are looking for tailwind v3 implementation visit the below link
